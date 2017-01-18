@@ -1,0 +1,8 @@
+{
+  "name": "kirchbergerknorr/magento1_phxsolution_formbuilder",
+  "type": "magento-module",
+  "description": "Custom form builder",
+  "authors": [
+    {"name": "Phxsolution"}
+  ]
+}
