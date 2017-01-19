@@ -4,7 +4,7 @@
 
 Tested for Magento 1.9.3.1
 
-Module version 0.3.2
+Module version 0.3.3
 
 ---
 
