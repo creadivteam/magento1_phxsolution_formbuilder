@@ -10,6 +10,8 @@ Module version 0.3.3
 
 *Please note that we are not the developer of this extension. In this repository, we only added modman and composer support. We will not provide any support for this repository. If you have any problems on integration, please use the official link provided above.*
 
+Please also note we removed any styles the original module uses.
+
 ## Overview
 
 With this module, administrators can create custom forms that are shown in the frontend.
@@ -55,3 +57,5 @@ Add the following code to a CMS page or block to display a form created in the a
 ```
 {{block type="formbuilder/frontend_form" name="frontend_form" form_id="[ID of your form]" template="formbuilder/form.phtml"}}
 ```
+
+Please note you might need to set a block permission for the block *formbuilder/frontend_form* at *System > Permissions > Blocks*
