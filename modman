@@ -5,4 +5,3 @@ app/design/frontend/base/default/layout/formbuilder.xml app/design/frontend/base
 app/design/frontend/base/default/template/formbuilder   app/design/frontend/base/default/template/formbuilder
 app/etc/modules/Phxsolution_Formbuilder.xml app/etc/modules/Phxsolution_Formbuilder.xml
 js/formbuilder  js/formbuilder
-skin/frontend/base/default/css/formbuilder  skin/frontend/base/default/css/formbuilder

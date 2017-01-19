@@ -39,7 +39,7 @@ Add the `require` and `repositories` sections to your composer.json as shown bel
         
         ...
         
-        "kirchbergerknorr/magento1_phxsolution_formbuilder": "^0.3.2",
+        "kirchbergerknorr/magento1_phxsolution_formbuilder": "^0.3.3",
         
         ...
     },
