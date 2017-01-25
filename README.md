@@ -8,7 +8,7 @@ Module version 0.3.3
 
 ---
 
-*Please note that we are not the developer of this extension. In this repository, we only added modman and composer support. We will not provide any support for this repository. If you have any problems on integration, please use the official link provided above.*
+*Please note that we are not the developer of this extension. In this repository, we only added modman and composer support. We will not provide any support for this repository. If you have any problems on integration, please use the official link provided below.*
 
 Please also note we removed any styles the original module uses.
 
